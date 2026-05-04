@@ -141,7 +141,7 @@ Prueba de carga ejecutada con **50,000 eventos**:
 
 1. **Clonar el repositorio**
 ```bash
-cd /home/marco/Escritorio/PORTAFOLIO/event-driven-system
+git clobe https://github.com/marcochumbepo/event-driven-system.git
 ```
 
 2. **Levantar todo el sistema**
